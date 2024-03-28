@@ -1,0 +1,4 @@
+invoke==2.2.0
+ruff==0.3.4
+pyinstaller==6.5.0
+pillow==10.2.0
